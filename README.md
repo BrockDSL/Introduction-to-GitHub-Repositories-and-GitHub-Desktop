@@ -1,5 +1,6 @@
 ![Tool Logo](Github_Part1.png)
 
+# Introduction to GitHub Repositories and GitHub Desktop
 
 In this workshop, attendees will learn about one of the most useful and widely adopted platforms on the internet, GitHub.  GitHub is a very versatile tool, and this workshop covers its most basic function, as a free storage location for your data!  In addition, this workshop covers how to use GitHub Desktop and the basic project workflow.  This workshop is the first in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
