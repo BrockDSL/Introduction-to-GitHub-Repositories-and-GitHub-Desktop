@@ -1,28 +1,27 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
-![Tool Logo](Image filename)
+![Tool Logo](Github_Part1.png)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+In this workshop, attendees will learn about one of the most useful and widely adopted platforms on the internet, GitHub.  GitHub is a very versatile tool, and this workshop covers its most basic function, as a free storage location for your data!  In addition, this workshop covers how to use GitHub Desktop and the basic project workflow.  This workshop is the first in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
-## Setup Instructions
-In preparation for this workshop, you will need...
+No prior experience is needed to attend this workshop.
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+## Setup
+In preparation for this workshop, you will need the following: 
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+ - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
+ - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.
+ - A file to upload to your new repository.  This can be anything from a blank text file to a picture.  Just keep in mind that it will be on a public repository so don't use anything inappropriate or sensitive.
 
-## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
 
-## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+## Next Steps
 
- 
+After completing this workshop, the recommended next steps are:
+
+ - Practice!  It is always beneficial to practice the steps learned to keep them fresh in your mind.  GitHub allows you to have unlimited repositories so explore any options that you are curious about!
+ - Attend the "Collaborating with Version Control on GitHub" as it is a direct follow up to the skills learned in this workshop
+  
+  
+  
  
  
 
