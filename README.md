@@ -4,15 +4,18 @@
 
 In this workshop, attendees will learn about one of the most useful and widely adopted platforms on the internet, GitHub.  GitHub is a very versatile tool, and this workshop covers its most basic function, as a free storage location for your data!  In addition, this workshop covers how to use GitHub Desktop and the basic project workflow.  This workshop is the first in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
-No prior experience is needed to attend this workshop.
+No prior experience is needed to attend this workshop.  
+
+----
 
 ## Setup
 In preparation for this workshop, you will need the following: 
 
  - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
  - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.
- - A file to upload to your new repository.  This can be anything from a blank text file to a picture.  Just keep in mind that it will be on a public repository so don't use anything inappropriate or sensitive.
+ - A file to upload to your new repository.  This can be anything from a blank text file to a picture.  Just keep in mind that it will be on a public repository so don't use anything inappropriate or sensitive.  
 
+----
 
 ## Next Steps
 
