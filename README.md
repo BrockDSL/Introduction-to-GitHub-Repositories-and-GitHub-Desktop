@@ -6,6 +6,8 @@ In this workshop, attendees will learn about one of the most useful and widely a
 
 No prior experience is needed to attend this workshop.  
 
+*Estimated workshop length: 1.5 hours*
+
 ----
 
 ## Setup
