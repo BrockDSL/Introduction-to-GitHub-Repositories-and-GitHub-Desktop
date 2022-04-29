@@ -24,7 +24,10 @@ In preparation for this workshop, you will need the following:
 After completing this workshop, the recommended next steps are:
 
  - Practice!  It is always beneficial to practice the steps learned to keep them fresh in your mind.  GitHub allows you to have unlimited repositories so explore any options that you are curious about!
- - Attend the "Collaborating with Version Control on GitHub" as it is a direct follow up to the skills learned in this workshop
+ - Check out the other workshops in our introduction to GitHub Series
+   - [Collaborating with Version Control on GitHub](https://brockdsl.github.io/Collaborating-with-Version-Control-on-GitHub/)
+   - [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
+   - [Automating tasks with GitHub Actions](https://brockdsl.github.io/Automating-tasks-with-GitHub-Actions/)
   
   
   
