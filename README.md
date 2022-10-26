@@ -37,7 +37,7 @@ In preparation for this workshop, you will need the following:
 **Task Set 3**  
 
 1. Ensure that GitHub Desktop is installed on your computer and then clone your repository to your computer using the green “Code” button on the main page of your repository and selecting “Open with GitHub Desktop”.  Make sure to put the repository somewhere easy to find (by default GitHub should try to create a nice folder in your Documents)
-2. Fetch the origin of your repository (using the “Fetch Origin” button) to make sure that you have the most up to date version (this should only take a few second to a minute)
+2. Fetch the origin of your repository (using the “Fetch Origin” button) to make sure that you have the most up to date version (this should only take a few seconds)
 3. Open the repository location on your computer (either by navigating to it or by clicking the “Show in explorer” button in GitHub Desktop) and edit one of the files in there and save your changes (anything other than the .git folder which should never be touched)
 4. Go back to GitHub Desktop and review the changes, then write a commit message and commit the changes.
 5. Push your changes to your online version of the repository 
