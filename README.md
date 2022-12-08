@@ -56,6 +56,7 @@ After completing this workshop, the recommended next steps are:
    - [Collaborating with Version Control on GitHub](https://brockdsl.github.io/Collaborating-with-Version-Control-on-GitHub/)
    - [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
    - [Automating tasks with GitHub Actions](https://brockdsl.github.io/Automating-tasks-with-GitHub-Actions/)
+   - [GitHub Tips for Programmers](https://brockdsl.github.io/GitHub-Tips-for-Programmers/)
   
   
   
