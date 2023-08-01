@@ -1,3 +1,3 @@
 In this workshop, attendees will learn about one of the most useful and widely adopted platforms on the internet, GitHub. GitHub is a very versatile tool, and this workshop covers its most basic function, as a free storage location for your data! In addition, this workshop covers how to use GitHub Desktop and the basic project workflow.
 
-No prior experience is needed to attend this workshop
+No prior experience is needed to attend this workshop.
